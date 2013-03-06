@@ -21,9 +21,6 @@ class MinicSkeleton extends Module
 		$this->description = $this->l('A skeleton module for developers.');
 
 		$this->confirmUninstall = $this->l('Are you sure you want to uninstall?');
-
-		if (!Configuration::get('MYMODULE_NAME'))       
-			$this->warning = $this->l('No name provided');
 	}
 
 	/**
