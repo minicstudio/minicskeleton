@@ -1,0 +1,3 @@
+<!-- minicskeleton -->
+	<!-- content -->
+<!-- end minicskeleton -->
