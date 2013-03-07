@@ -22,6 +22,9 @@ if (!defined('_PS_VERSION_'))
  
 class MinicSkeleton extends Module
 {
+	// DB file
+	const INSTALL_SQL_FILE = 'install.sql';
+
 	public function __construct()
 	{
 		$this->name = 'minicskeleton';
