@@ -125,6 +125,14 @@ class MinicSkeleton extends Module
 	}
 
 	/**
+ 	 * Top of pages hook
+	 */
+	public function hookDisplayTop($params)
+	{
+		return $this->hookDisplayHome($params);
+	}
+
+	/**
  	 * Home page hook
 	 */
 	public function hookDisplayHome($params)
@@ -155,6 +163,14 @@ class MinicSkeleton extends Module
 	public function hookDisplayLeftColumn($params)
 	{
 	 	return $this->hookDisplayHome($params);
+	}
+
+	/**
+ 	 * Footer hook
+	 */
+	public function hookDisplayFooter($params)
+	{
+		return $this->hookDisplayHome($params);
 	}
 }
 
