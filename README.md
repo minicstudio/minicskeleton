@@ -11,8 +11,8 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 
 ###Features
 <ul>
-<li>install.sql for easier use</li>
-<li>Module Controller sample</li>
+<li>install.sql to install tables easier if needed</li>
+<li>Module Controller sample (remove the underscore to use it)</li>
 <li>Recommended file structure</li>
 </ul>
 
