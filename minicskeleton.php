@@ -68,7 +68,7 @@ class MinicSkeleton extends Module
 		if (!parent::install() || 
 			!$this->registerHook('displayHome') || 
 			!$this->registerHook('displayHeader') || 
-			!$this->registerHook('dispalayBackOfficeHeader') || 
+			!$this->registerHook('displayBackOfficeHeader') || 
 			!$this->registerHook('displayAdminHomeQuickLinks'))
 			return false;
 		return true;
