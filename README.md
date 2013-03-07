@@ -32,4 +32,6 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 <li>Dashboard</li>
 </ul>
 
+You can find more info from the HOOKS [here](http://doc.prestashop.com/display/PS15/Hooks+in+PrestaShop+1.5).
+
 Happy coding!
