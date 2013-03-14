@@ -30,10 +30,10 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 You can find more info from the HOOKS [here](http://doc.prestashop.com/display/PS15/Hooks+in+PrestaShop+1.5).
 
 ###Changelog
-v1.1.0 - 2013/03/14
-- added elusive web icons
+v1.1.0 - 2013/03/14 <br />
+\- added elusive web icons
 
-v1.0.0 - 2013/03/07
-- first release
+v1.0.0 - 2013/03/07 <br />
+\- first release
 
 Happy coding!
