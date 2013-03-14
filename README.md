@@ -14,6 +14,7 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 <li>install.sql to install tables easier if needed</li>
 <li>Module Controller sample (remove the underscore to use it)</li>
 <li>Recommended file structure</li>
+<li>Elusive web icons, more info [here](http://aristeides.com/elusive-iconfont/)</li>
 </ul>
 
 ###Front Office Hooks
@@ -33,5 +34,12 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 </ul>
 
 You can find more info from the HOOKS [here](http://doc.prestashop.com/display/PS15/Hooks+in+PrestaShop+1.5).
+
+###Changelog
+v1.1.0 - 2013/03/14
+- added elusive web icons
+
+v1.0.0 - 2013/03/07
+- first release
 
 Happy coding!
