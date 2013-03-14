@@ -100,7 +100,7 @@ class MinicSkeleton extends Module
 	public function hookDisplayBackOfficeHeader()
 	{
 		// CSS
-		// $this->context->controller->addCSS($this->_path.'views/css/css_file_name.css');
+		$this->context->controller->addCSS($this->_path.'views/css/elusive-icons/elusive-webfont.css');
 		// JS
 		// $this->context->controller->addJS($this->_path.'views/js/js_file_name.js');	
 	}
