@@ -13,7 +13,7 @@ Feel free to leave a comment on the Prestashop [forum](http://www.prestashop.com
 - install.sql to install tables easier if needed
 - Module Controller sample (remove the underscore to use it)
 - Recommended file structure
-- Elusive web icons, more info [here](http://aristeides.com/elusive-iconfont/)
+- Elusive web icons, more info [here](http://aristath.github.com/elusive-iconfont/)
 
 ###Front Office Hooks
 - Header (for css and js)
