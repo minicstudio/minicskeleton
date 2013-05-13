@@ -33,6 +33,9 @@ You can find more info from the HOOKS [here](http://doc.prestashop.com/display/P
 Check out this [tutorial](http://module.minic.ro/how-to-create-a-prestashop-module-tutorial/) to get started with this module.
 
 ###Changelog
+v1.1.1 - 2013/05/13 <br />
+\- updated elusive web icons to latest version
+
 v1.1.0 - 2013/03/14 <br />
 \- added elusive web icons
 
