@@ -149,7 +149,7 @@ class MinicSkeleton extends Module
 			'some_smarty_var' => 'some_data'
 		));
 
-		return $this->display(__FILE__, 'views/tempaltes/hooks/home.tpl');	
+		return $this->display(__FILE__, 'views/templates/hooks/home.tpl');	
 	}
 
 	/**
